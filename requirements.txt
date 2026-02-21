@@ -7,5 +7,6 @@ pymongo[srv]
 scikit-learn
 mlflow
 pyaml
+dagshub
 
 # -e . ## It is refering to setup.py
